@@ -1,0 +1,159 @@
+
+body{
+  color: #40514E;
+margin: 0;
+text-align: center;
+font-family: 'Merriweather', serif;
+}
+h1
+{
+margin: 0 auto 0 auto;
+padding-top: 100px;
+font-family: 'Sacramento', cursive;
+font-size:562.5%;
+color: #00bcd4;
+
+}
+h2
+{ color: #11999E;
+font-family: 'Montserrat', sans-serif;
+
+}
+h3{color: #11999E;
+font-family: 'Montserrat', sans-serif;
+}
+p
+{
+margin-bottom: 0;
+line-height: 2;
+}
+span{
+text-decoration: underline;
+}
+hr{
+border-style: dotted none none none;
+border-width: 6px;
+border-color: #9e9d89;
+width: 4%;
+margin: 100px auto;
+}
+a:hover{
+opacity: 0.5;
+}
+
+
+
+
+
+
+
+
+.top-container{
+  /*background-image: url("../images/toppic.jpg");*/
+background-color: #98ded9;
+padding-top: 50px;
+border: 1px solid #cccccc;
+border-radius: 5px;
+}
+
+.image{
+  border-radius: 100%;
+}
+.middle-container{
+padding: 100px 0;
+
+}
+.bottom-container{
+background-color: #1cc5dc;
+margin-top: 0;
+padding: 20px 0 20px 0;
+
+}
+.top-cloud{
+
+  height: 70px;
+  width: 150px;
+position:absolute;
+right: 200px;
+
+}
+.bottom-cloud{
+  height: 70px;
+  width: 150px;
+  position: absolute;
+  left: 200px;
+  top: 250px;
+}
+.btn{
+  background: #2c9de8;
+  background-image: linear-gradient(top, #2c9de8, #225a7d);
+  background-image: linear-gradient(to bottom, #2c9de8, #225a7d);
+  border-radius: 43px;
+  box-shadow: 0 0 5px #666666;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px;
+  margin: 40px auto;
+  text-decoration: none;
+   letter-spacing: 2px;
+}
+
+.btn:hover {
+  background: #aedaf5;
+  background-image: linear-gradient(top, #aedaf5, #2aa7fa);
+
+  background-image: linear-gradient(to bottom, #aedaf5, #2aa7fa);
+  text-decoration: none;
+  color: #233e8b;
+  font-weight: bold;
+}
+.subheading{
+font-size: 200%;
+font-weight: lighter;
+}
+.skill-row{
+display: inline-block;
+width: 50%;
+text-align: left;
+margin: 10px auto;
+
+}
+.profile{
+display: inline-block;
+width: 30%;
+}
+/*.para{
+
+line-height: 2;
+}*/
+.lasttext{
+margin-top: 0;
+font-size: 0.75rem;
+color: #e3e3e3;
+letter-spacing: 2px;
+}
+.codeimage{
+float: left;
+margin-right: 30px;
+}
+.psimage{
+float: right;
+margin-left: 30px;
+}
+.last-para-description{
+width: 50%;
+margin: auto auto 20px auto;
+font-weight: bold;
+
+}
+.last-icons{
+margin: 30px 4px;
+}
+.footer-link{
+margin: auto 4px;
+}
+.contact-me{
+width: 50%;
+margin: auto;
+}
