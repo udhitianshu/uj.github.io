@@ -123,10 +123,10 @@ margin: 10px auto;
 display: inline-block;
 width: 30%;
 }
-/*.para{
+.para{
 
 line-height: 2;
-}*/
+}
 .lasttext{
 margin-top: 0;
 font-size: 0.75rem;
